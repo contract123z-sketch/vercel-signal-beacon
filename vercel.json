@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/:msg.gif", "destination": "/api/signal/:msg.gif" }
+  ]
+}
